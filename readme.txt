@@ -1,6 +1,5 @@
 The Vellumap is a custom map system.
-
-It build by:
+Build by:
 
 Python      3.7.4
 PyQt5      5.12.0
